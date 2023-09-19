@@ -1,0 +1,76 @@
+Aether
+Albedo
+Alhaitham
+Aloy
+Amber
+Arataki Itto
+Itto
+Baizhu
+Barbara
+Beidou
+Bennett
+Candace
+Chongyun
+Collei
+Cyno
+Dainsleif
+Dehya
+Diluc
+Diona
+Dori
+Eula
+Faruzan
+Fischl
+Ganyu
+Gorou
+Hu Tao
+Jean
+Kaedehara Kazuha
+Kazuha
+Kaeya
+Kaveh
+Kamisato Ayaka
+Ayaka
+Kamisato Ayato
+Ayato
+Keqing
+Kirara
+Klee
+Kujou Sara
+Kuki Shinobu
+Kuki
+Layla
+Lisa
+Lumine
+Mika
+Mona
+Nilou
+Ningguang
+Noelle
+Qiqi
+Raiden Shogun
+Razor
+Rosaria
+Sangonomiya Kokomi
+Kokomi
+Sayu
+Shenhe
+Shikanoin Heizou
+Heizou
+Sucrose
+Tartaglia
+Thoma
+Tighnari
+Traveler
+Venti
+Xiangling
+Xiao
+Xingqiu
+Xinyan
+Yae Miko
+Yanfei
+Yaoyao
+Yelan
+Yoimiya
+Yun Jin
+Zhongli
