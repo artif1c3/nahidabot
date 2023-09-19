@@ -3,7 +3,9 @@
 </p>
 <br>
 
-<h1 style="text-align: center;"> Nahida Bot </h1>
+<p align="center">
+<h1> Nahida Bot </h1>
+</p>
 
 <p align="center"> Genshin AI helper and chatbot </p>
 <p align="center">
