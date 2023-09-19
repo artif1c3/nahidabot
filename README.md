@@ -1,20 +1,20 @@
-<div style="margin: auto; display: flex; align-items: center; flex-direction: column;">
+<p align="center">
     <img src="assets/nahida.png" width="600" height="200">
-</div>
+</p>
 <br>
 
 <h1 style="text-align: center;"> Nahida Bot </h1>
 
-<p style="text-align: center;"> Genshin AI helper and chatbot </p>
-<div style="margin: auto; display: flex; flex-direction: row; justify-content: center;">
+<p align="center"> Genshin AI helper and chatbot </p>
+<p align="center">
     <a href="#overview" style="padding: 0px 5px;"> Overview </a>
     <a href="#commands" style="padding: 0px 5px;"> Commands </a>
     <a href="#permissions" style="padding: 0px 5px;"> Permissions </a>
     <a href="#installation" style="padding: 0px 5px;"> Installation </a>
-</div>
-<div style="padding: 20px; margin: auto; display: flex; align-items: center; flex-direction: column;">
+</p>
+<p align="center">
     <img src="assets/nahidabot.gif" style="padding: 20px">
-</div>
+</p>
 
 ## Overview
 
