@@ -10,7 +10,11 @@ Barbara
 Beidou
 Bennett
 Candace
+Charlotte
+Chiori
+Chevreuse
 Chongyun
+Clorinde
 Collei
 Cyno
 Dainsleif
@@ -21,6 +25,8 @@ Dori
 Eula
 Faruzan
 Fischl
+Freminet
+Furina
 Ganyu
 Gorou
 Hu Tao
@@ -42,8 +48,12 @@ Kuki
 Layla
 Lisa
 Lumine
+Leynette
+Lyney
 Mika
 Mona
+Navia
+Neuvillette
 Nilou
 Ningguang
 Noelle
@@ -56,6 +66,7 @@ Kokomi
 Sayu
 Shenhe
 Shikanoin Heizou
+Sigewinne
 Heizou
 Sucrose
 Tartaglia
@@ -73,4 +84,5 @@ Yaoyao
 Yelan
 Yoimiya
 Yun Jin
+Wriothesley
 Zhongli
