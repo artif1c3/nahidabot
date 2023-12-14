@@ -12,6 +12,7 @@ Blackcliff Slasher
 Blackcliff Warbow
 Bloodtainted Greatsword
 Calamity Queller
+Cashflow Supervision
 Cinnabar Spindle
 Compound Bow
 Cool Steel
@@ -35,6 +36,7 @@ Favonius Warbow
 Ferrous Shadow
 Festering Desire
 Fillet Blade
+Fleuve Cendre Ferryman
 Freedom-Sworn
 Frostbearer
 Hakushin Ring
@@ -95,6 +97,7 @@ Slingshot
 Snow-Tombed Starsilver
 Solar Pearl
 Song of Broken Pines
+Splendor of Tranquil Waters
 Staff of Homa
 Summit Shaper
 Sword of Descension
@@ -103,12 +106,15 @@ The Bell
 The Black Sword
 The Catch
 The Flute
+The First Great Magic
 The Stringless
 The Unforged
 The Viridescent Hunt
 The Widsith
 Thrilling Tales of Dragon Slayers
+Tome of the Eternal Flow
 Thundering Pulse
+Verdict
 Vortex Vanquisher
 Wavebreaker's Fin
 White Iron Greatsword
